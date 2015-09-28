@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82F4861D-6BBB-46BD-A256-F8807A6BAA64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MoneySplit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20D6BDABE8C58BDD5156CCE647A2C89A394E6388</key>
+		<string>https://github.com/aiqiliu/moneySplit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MoneySplit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20D6BDABE8C58BDD5156CCE647A2C89A394E6388</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aiqiliu/moneySplit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20D6BDABE8C58BDD5156CCE647A2C89A394E6388</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20D6BDABE8C58BDD5156CCE647A2C89A394E6388</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MoneySplit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
